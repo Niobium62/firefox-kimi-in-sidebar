@@ -4,6 +4,7 @@
   "description": "Displays Kimi AI assistant in the Firefox sidebar with customizable shortcuts.",
   "version": "1.0.0",
   "author": "Niobium62",
+  "homepage_url": "https://github.com/Niobium62/firefox-kimi-in-sidebar",
   "background": {
     "scripts": [
       "src/background.js"
