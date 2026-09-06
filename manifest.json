@@ -57,8 +57,7 @@
         "required": [
           "none"
         ]
-      },
-      "strict_min_version": "58.0"
+      }
     }
   }
 }
