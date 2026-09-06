@@ -52,7 +52,7 @@
   },
   "browser_specific_settings": {
     "gecko": {
-      "id": "@firefox-kimi-in-sidebar",
+      "id": "@firefox-kimi-in-sidebar1",
       "data_collection_permissions": {
         "required": [
           "none"
