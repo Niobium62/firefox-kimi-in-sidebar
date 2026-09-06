@@ -49,5 +49,16 @@
     },
     "default_title": "Toggle Kimi Sidebar",
     "browser_style": false
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "@firefox-kimi-in-sidebar",
+      "data_collection_permissions": {
+        "required": [
+          "none"
+        ]
+      },
+      "strict_min_version": "58.0"
+    }
   }
 }
